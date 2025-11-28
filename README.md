@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Ashraf 👋
+# Hi , I'm Ahmed Ashraf 👋
 ### 🚀 Data Scientist | AI Automation Specialist | Agricultural Engineer
 
 I bridge the gap between **Physical Engineering Systems** and **Digital Intelligence**. 
